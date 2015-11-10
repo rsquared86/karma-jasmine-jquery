@@ -22,12 +22,5 @@
     "jasmine-plugin"
   ],
   "author": "Sergey Dolinkov",
-  "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/bessdsv/karma-jasmine-jquery/issues"
-  },
-  "homepage": "https://github.com/bessdsv/karma-jasmine-jquery",
-  "dependencies": {
-   
-  }
+  "license": "BSD"
 }
